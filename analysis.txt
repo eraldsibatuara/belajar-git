@@ -6,3 +6,6 @@ Location: Surabaya
 
 Email: erald.sibatuara@gmail.com
 Edited from Github Web  
+
+Company: BukuWarung
+Country: Indonesia
