@@ -3,3 +3,6 @@ This analysis file is created by
 Name: Erald David Sibatuara
 Favorite Programming Language: Python
 Location: Surabaya
+
+Email: erald.sibatuara@gmail.com
+Edited from Github Web
